@@ -1,0 +1,10 @@
+[Unit]
+Description=Pythonadm
+
+[Service]
+User=pythonadm
+
+WorkingDirectory=/home/pythonadm
+
+[Install]
+WantedBy=multi-user.target
