@@ -5,6 +5,7 @@ Description=Pythonadm
 User=pythonadm
 
 WorkingDirectory=/home/pythonadm
+ExecStart=/usr/bin/python3 app.py 
 
 [Install]
 WantedBy=multi-user.target
