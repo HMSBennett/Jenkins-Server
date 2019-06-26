@@ -6,7 +6,7 @@ sudo usermod --shell /usr/bin/python pythonadm
 
 sudo su - pythonadm
 
-sudo cp pythonadm.service /../../../../etc/systemd/system
+sudo cp pythonadm.service /etc/systemd/system
 
 sudo mkdir /home/pythonadm/public
 
