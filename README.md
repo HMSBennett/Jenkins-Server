@@ -1,4 +1,15 @@
 # Jenkins-Server
+
+# Description:
+
+
+# To Run:
+  -      :   .
+
+# Disclaimer:
+
+
+
 First attempt at using Jenkins to host a server
 
 May not work correctly
